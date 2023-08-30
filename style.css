@@ -1,0 +1,45 @@
+ .new_1 > span {
+    display: inline;
+    margin: 20px;
+    
+    
+    
+}
+.new_1{
+    margin-left: 60%;
+    position: fixed;
+    top: 20px;
+    color: white;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+.new_2{
+    height: 100vh;
+    width: 100%;
+}
+.button{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 625px;
+    background-color: green;
+    border: none;
+    
+
+}
+.Ecom{
+    color: orangered;
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    font-size: xx-large;
+    
+
+}
